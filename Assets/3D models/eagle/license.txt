@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eagle
+* source:	https://sketchfab.com/3d-models/eagle-10bee62c6ef14dd3a700eb4c8429f8ae
+* author:	vasyl.yarmola (https://sketchfab.com/vasyl.yarmola)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eagle" (https://sketchfab.com/3d-models/eagle-10bee62c6ef14dd3a700eb4c8429f8ae) by vasyl.yarmola (https://sketchfab.com/vasyl.yarmola) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

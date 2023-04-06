@@ -1,0 +1,8 @@
+Model Information:
+* title:	'He' wine vessel, 10th-11th C BCE
+* source:	https://sketchfab.com/3d-models/he-wine-vessel-10th-11th-c-bce-9744442e4860487b9b84cfa59f215d42
+* author:	Minneapolis Institute of Art (https://sketchfab.com/artsmia)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.

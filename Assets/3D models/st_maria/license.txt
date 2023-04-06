@@ -1,0 +1,11 @@
+Model Information:
+* title:	St Maria
+* source:	https://sketchfab.com/3d-models/st-maria-66f05db42a364e5f9dfb20ef88d6f0ee
+* author:	gogiart (https://sketchfab.com/agt14032013)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "St Maria" (https://sketchfab.com/3d-models/st-maria-66f05db42a364e5f9dfb20ef88d6f0ee) by gogiart (https://sketchfab.com/agt14032013) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
